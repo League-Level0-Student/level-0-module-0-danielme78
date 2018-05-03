@@ -13,7 +13,7 @@ public static void main (String[] args) throws Exception {
 	
 	r.setSpeed(10);
 	
-	 r.move(120);
+	 r.move(115);
 	 r.turn(90);
 	
 	for (int i = 0; i < 180; i++) {
