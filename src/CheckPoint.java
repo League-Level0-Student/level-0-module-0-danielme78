@@ -11,7 +11,7 @@ public class CheckPoint {
 	
 	r.setSpeed(10);
 	
-	
+	//change
 }
  }
   }
